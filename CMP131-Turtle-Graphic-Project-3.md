@@ -40,7 +40,7 @@ Everyone should be able to explain a function call and how changing an argument 
 
 ### 1 — Set up your drawing
 
-Open `turtle_house.py`. Import `turtle`, choose a background color, and set a comfortable drawing speed. Run locally on a computer with a graphics window. See the [README](README.md) for VS Code setup.
+Open `turtle_house.py`. The import and two function outlines are provided. Replace every `____` with the correct value, parameter, variable, or quoted color name. Keep the indentation and complete all blanks before running; the unfinished starter will produce a `NameError` if run. Choose a background color and use the supplied drawing speed. Run locally on a computer with a graphics window. See the [README](README.md) for VS Code setup.
 
 ### 2 — Build the walls
 
