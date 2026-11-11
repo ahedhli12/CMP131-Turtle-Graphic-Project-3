@@ -4,3 +4,5 @@
 # Date:
 # Read CMP131-Turtle-Graphic-Project-3.md before writing your program.
 # Write your own solution below. Do not name this file turtle.py.
+
+import turtle
